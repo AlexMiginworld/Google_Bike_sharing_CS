@@ -92,8 +92,11 @@ df_merged_2019.to_csv('All_trips_2019.csv', index=False)
 
 *For this section I put my hands on Tableau in order to creat vesualization and get insights from it. Feel free to check my researching on [Tableau Public](https://public.tableau.com/app/profile/alex.kaplenko/viz/Casestudybike-sharing/Casestudystory)!*
 
-<img src="Tableau/Customers comparison.png" alt="Customers comparison" width="1360" height="760">
+<img src="Customers comparison.png" alt="Customers comparison" width="1360" height="760">
 
-<img src="Tableau/Weekly Ride Trends.png" alt="Tableau/Weekly Ride Trends.png" width="1360" height="760">
+<img src="Weekly Ride Trends.png" alt="Tableau/Weekly Ride Trends.png" width="1360" height="760">
 
+## Conclusion
+
+Cyclistic can use social media advertising to target casual riders with personalized messages highlighting the benefits of annual memberships. This could include emphasizing cost savings, convenience, and exclusive perks. Per the insights, our Design marketing strategies should highlight of benefits and promote exclusive offers for over-the-weekend bike travelers. Creating engaging content like videos, infographics, and blog posts that showcase the benefits of annual memberships can capture the attention of casual riders. This content can be shared on social media platforms and the Cyclistic website. Also promoting annual memberships within the Cyclistic app can be highly impactful. This could include pop-up notifications, personalized offers, and testimonials from satisfied members. Partnering with local businesses, organizations, or influencers to create weekend and holiday events, it can help reach a wider audience and promote the benefits of annual memberships.
 
