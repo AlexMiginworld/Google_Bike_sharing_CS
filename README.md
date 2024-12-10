@@ -92,9 +92,9 @@ df_merged_2019.to_csv('All_trips_2019.csv', index=False)
 
 *For this section I put my hands on Tableau in order to creat vesualization and get insights from it. Feel free to check my researching on [Tableau Public](https://public.tableau.com/app/profile/alex.kaplenko/viz/Casestudybike-sharing/Casestudystory)!*
 
-<img src="Customers comparison.png" alt="Customers comparison" width="1360" height="760">
+<img src="Customers comparison.png" alt="Customers comparison" width="1360" height="630">
 
-<img src="Weekly Ride Trends.png" alt="Tableau/Weekly Ride Trends.png" width="1360" height="760">
+<img src="Weekly Ride Trends.png" alt="Tableau/Weekly Ride Trends.png" width="1360" height="630">
 
 ## Conclusion
 
